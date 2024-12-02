@@ -44,8 +44,7 @@ export const DECK = [
     },
     {
       question: "Usamos estado (state) para __",
-      answer:
-        "Dizer para o React quais informações quando atualizadas devem renderizar a tela novamente",
+      answer: "Dizer para o React quais informações quando atualizadas devem renderizar a tela novamente",
       status: "play",
       score: null
     }
