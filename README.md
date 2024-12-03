@@ -15,22 +15,20 @@
 Nesse projeto fizemos um aplicativo com o bjetivo de contribuir no processo de aprendizagem das pessoas.O desenvolvimento envolveu várias etapas e a integração de diferentes tecnologias como HTML5, CSS3, JavaScript e React. Com esse aplicativo é possível criar um deck de perguntas e respostas para aprimorar a memorização de conteúdos.
 
 ## 🚀 Instalação
-Baixe o repositório do projeto no github e execute em sua máquina. Ou, se preferir, acesse o aplicativo online no link abaixo:
-
-💬 [**Acesse aqui**](https://instagram-clone-react-sigma.vercel.app/)
+Baixe o repositório do projeto no github e execute em sua máquina.
 
 ## 💻 Preview
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;" >
-<img src="./public/preview/desktop.png" style="margin: 10px">
+<img src="./public/preview/zap-1.png" style="margin: 10px">
 
 ## 🎮 Usando
 
-<img src="./public/preview/usando.gif" style="margin: 10px">
+<img src="./public/preview/zap-recall.gif" style="margin: 10px">
 
 </div>
 
 $~$
 
-[🔝 De volta ao topo](#bate-papo-uol)
+[🔝 De volta ao topo](#Zap_Recall)
 
